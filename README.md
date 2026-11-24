@@ -1,4 +1,4 @@
-# StarLake LED Lighting
+# nomlux LED Lighting
 
 Professional LED lighting catalog for North American distributors, contractors, and OEM/ODM partners.
 
